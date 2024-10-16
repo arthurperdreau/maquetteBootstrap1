@@ -1,0 +1,19 @@
+.page{
+    height: 100vh;
+    background-color: #212529;
+}
+.tailleLien{
+    font-size: 0.75em;
+}
+.tailleContainer{
+    padding-right: 8vw;
+    padding-left: 8vw;
+}
+.tailletext1{
+    font-size: 0.85em;
+}
+.tailletext2{
+    font-size: 0.75em;
+}
+.taille-trait{
+}
