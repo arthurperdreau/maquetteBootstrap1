@@ -16,4 +16,19 @@
     font-size: 0.75em;
 }
 .taille-trait{
+    width: 160px;
+    color: #6c757d ;
+}
+.interligne{
+    line-height: 0.5;
+}
+.fleche{
+    height: 1.5vh;
+    width: 1.5vh;
+    margin-right: 1vh;
+}
+.textFooter{
+    font-size: 0.75em;
+
+
 }
